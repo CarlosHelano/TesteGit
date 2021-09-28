@@ -2,6 +2,8 @@ public class Aluno {
 
     private int matricula;
     private String nome;
+    private float nota;
+    private float nota2;
 
     public int getMatricula() {
         return matricula;
